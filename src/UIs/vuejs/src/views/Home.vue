@@ -14,11 +14,11 @@
 
         <div class="text-center">Developed by:</div>
         <div class="text-center">
-          <h3>Phong Nguyen</h3>
+          <h3>Emerson Costa</h3>
         </div>
-        <div class="text-center">@phongnguyend</div>
+        <div class="text-center">@brightsmile</div>
         <div class="text-center">
-          <a href="https://github.com/phongnguyend/Practical.CleanArchitecture">Practical.CleanArchitecture</a>
+          <a href="https://github.com/EmersonCosta915/Practical.CleanArchitecture">Practical.CleanArchitecture</a>
         </div>
         <div class="text-center">
           <strong>vuejs v{{ version }}</strong>

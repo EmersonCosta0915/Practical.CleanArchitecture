@@ -26,12 +26,12 @@ function Home() {
 
           <div className="text-center">Developed by:</div>
           <div className="text-center">
-            <h3>Phong Nguyen</h3>
+            <h3>Emerson Costa</h3>
           </div>
 
-          <div className="text-center">@phongnguyend</div>
+          <div className="text-center">@brightsmile</div>
           <div className="text-center">
-            <a href="https://github.com/phongnguyend/Practical.CleanArchitecture">
+            <a href="https://github.com/EmersonCosta915/Practical.CleanArchitecture">
               Practical.CleanArchitecture
             </a>
           </div>
