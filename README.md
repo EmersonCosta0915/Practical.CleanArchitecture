@@ -760,8 +760,6 @@
 
 - Open Blazor Home Page at: https://localhost:44331
 
-  ![alt text](/docs/imgs/blazor-home-page.png)
-
 ## How to Build and Run Single Page Applications:
 - Angular:
   + Navigate to folder: [UIs/angular/](/src/UIs/angular/)
