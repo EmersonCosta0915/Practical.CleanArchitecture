@@ -7,7 +7,7 @@
 # Database Centric vs Domain Centric Architecture 
 ![alt text](/docs/imgs/database-centrics-vs-domain-centric-architecture.png)
 
-[*(open on draw.io)*](https://www.draw.io/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fphongnguyend%2FPractical.CleanArchitecture%2Fmaster%2Fdocs%2Fimgs%2Fdatabase-centrics-vs-domain-centric-architecture.drawio)
+[*(open on draw.io)*](https://www.draw.io/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FEmersonCosta915%2FPractical.CleanArchitecture%2Fmaster%2Fdocs%2Fimgs%2Fdatabase-centrics-vs-domain-centric-architecture.drawio)
 
 # Hexagonal Architecture
 ![alt text](/docs/imgs/hexagonal-architecture.png)
