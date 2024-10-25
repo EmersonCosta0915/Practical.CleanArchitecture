@@ -781,8 +781,6 @@
     };
     ```
   + Go to http://localhost:4200/
-
-    ![alt text](/docs/imgs/angular-home-page.png)
   
 - React:
   + Navigate to folder: [UIs/reactjs/](/src/UIs/reactjs/)
@@ -806,8 +804,6 @@
     ```
   + Go to http://localhost:3000/
   
-    ![alt text](/docs/imgs/react-home-page.png)
-  
 - Vue:
   + Navigate to folder: [UIs/vuejs/](/src/UIs/vuejs/)
     ```
@@ -829,8 +825,6 @@
     export default environment;
     ```
 + Go to http://localhost:8080/
-  
-    ![alt text](/docs/imgs/vue-home-page.png)
 
 - Before Login, go to Identity Server https://localhost:44367/Client to make sure application clients have been registered:
 
@@ -866,8 +860,6 @@
   + Register new account at http://host.docker.internal:9000/Account/Register
   
 - Open Blazor Home Page at: http://host.docker.internal:9008
-
-  ![alt text](/docs/imgs/blazor-home-page.png)
 
 ## How to Run Integration & End to End Tests:
 - Update [ClassifiedAds.IntegrationTests/appsettings.json](/src/Monolith/ClassifiedAds.IntegrationTests/appsettings.json)
